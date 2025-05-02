@@ -1,2 +1,2 @@
 # livestreams
-Files and code for livestreams on youtube.
+Files and code for livestreams on YouTube & Twitch.
